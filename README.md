@@ -23,6 +23,3 @@ cd build
 ## Design
 
 FTP服务器包括 Ftp_Server（服务器主程序类）、Command_Handler（FTP命令连接类）、Data_Handler（FTP数据链接类）和 User_Inf（用户信息类）  
-
-## blog
-https://www.cnblogs.com/mcfzh/articles/16738193.html
