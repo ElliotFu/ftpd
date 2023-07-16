@@ -8,7 +8,7 @@
 支持指令包括:  
 user pass quit pwd cwd cdup port retr list type stor pasv rnfr rnto rmd dele mkd
 
-## Installation
+## Compilation
 进入项目根目录  
 mkdir build  
 cd build  
